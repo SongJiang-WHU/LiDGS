@@ -2,6 +2,6 @@
 LiDGS: An Efficient 3D Reconstruction Method by Fusing Lidar Point Cloud and Multi-view Images
 
 
-![image](https://github.com/user-attachments/assets/c5045091-5e5f-44f3-ad83-fb970a2552e4)
+![image](https://github.com/user-attachments/assets/65399f63-5312-4a02-8fd8-e7d83e4b6a6f)
 
 # Coming soon!
