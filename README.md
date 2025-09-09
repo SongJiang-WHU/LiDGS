@@ -5,7 +5,7 @@ This repository represents the official implementation of the paper titled "**Li
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://www.sciencedirect.com/science/article/pii/S1569843225003772)
 [![License](https://img.shields.io/badge/License-Apache--2.0-green)](LICENSE)
 
-[**Li Yan**]()*<sup>1,2</sup> · [**Jiang Song**]()<sup>1,*</sup> · [**Hong Xie**]()<sup>1,2</sup> · [**Pengcheng Wei**]()<sup>1</sup> · [**Gang Li**]()<sup>1</sup> · [**Longze Zhu**]()<sup>1</sup> · [**Zhongli Fan**]()<sup>3</sup> · [**Shucheng Gong**]()<sup>1</sup>
+[**Li Yan**]()*<sup>1,2</sup> · [**Jiang Song***]()<sup>1,*</sup> · [**Hong Xie**]()<sup>1,2</sup> · [**Pengcheng Wei**]()<sup>1</sup> · [**Gang Li**]()<sup>1</sup> · [**Longze Zhu**]()<sup>1</sup> · [**Zhongli Fan**]()<sup>3</sup> · [**Shucheng Gong**]()<sup>1</sup>
 
 <sup>1</sup>School of Geodesy and Geomatics, Wuhan University, 129 Luoyu Rd, Wuhan, 430079, China  
 <sup>2</sup>Hubei Luojia Laboratory, 129 Luoyu Rd, Wuhan, 430079, China  
@@ -23,12 +23,14 @@ Our key contributions include:
 - **Depth Regularization**: Correction of depth estimation for each Gaussian to ensure consistency across different viewpoints
 
 ## 🔥 News
-- **2024.12**: LiDGS paper accepted by *International Journal of Applied Earth Observation and Geoinformation*
+- **2024.12**: LiDGS paper accepted by **International Journal of Applied Earth Observation and Geoinformation**
 - **2024.11**: Code repository created and initial implementation released
 
 ## 🚀 Method Overview
 
-![LiDGS Method Overview](https://github.com/user-attachments/assets/a3380384-cd1d-4bfb-b02a-6ac219204b66)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a3380384-cd1d-4bfb-b02a-6ac219204b66" alt="LiDGS Method Overview" width="800">
+</div>
 
 LiDGS addresses the limitation of existing NeRF and 3DGS methods regarding geometric structure fidelity by:
 
@@ -38,7 +40,13 @@ LiDGS addresses the limitation of existing NeRF and 3DGS methods regarding geome
 
 ## 📊 Results
 
-[![demo](https://github.com/user-attachments/assets/video_thumbnail.png)](https://github.com/user-attachments/assets/5db2cd1c-e193-4003-854b-58cb3f192a2c)
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/5db2cd1c-e193-4003-854b-58cb3f192a2c">
+    <img src="https://github.com/user-attachments/assets/video_thumbnail.png" alt="LiDGS Demo Video" width="600">
+  </a>
+  <br>
+  <em>Click to play demo video</em>
+</div>
 
 Our method achieves superior performance in both novel view synthesis and 3D reconstruction tasks:
 
@@ -78,17 +86,6 @@ For questions and discussions:
 ## 📜 License
 
 This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgements
-
-We thank the following projects that made this work possible:
-- [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting)
-- [NeRF](https://github.com/bmild/nerf)
-- [COLMAP](https://github.com/colmap/colmap)
-
----
-
-**Keywords**: 3D Reconstruction · 3D Gaussian Splatting · Novel View Synthesis · Depth Prior · Geometric Anchors · Depth Regularization
 
 ## 🙏 Acknowledgements
 
