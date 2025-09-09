@@ -41,11 +41,10 @@ LiDGS addresses the limitation of existing NeRF and 3DGS methods regarding geome
 ## 📊 Results
 
 <div align="center">
-  <a href="https://github.com/user-attachments/assets/5db2cd1c-e193-4003-854b-58cb3f192a2c">
-    <img src="https://github.com/user-attachments/assets/video_thumbnail.png" alt="LiDGS Demo Video" width="600">
-  </a>
-  <br>
-  <em>Click to play demo video</em>
+
+https://github.com/user-attachments/assets/5db2cd1c-e193-4003-854b-58cb3f192a2c
+
+<em>LiDGS 3D reconstruction demo</em>
 </div>
 
 Our method achieves superior performance in both novel view synthesis and 3D reconstruction tasks:
@@ -73,15 +72,11 @@ If you find our work useful, please cite:
 }
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## 📞 Contact
 
 For questions and discussions:
 - **Jiang Song**: [songjiang@whu.edu.cn](mailto:songjiang@whu.edu.cn)
-- **Li Yan**: [liyan@whu.edu.cn](mailto:liyan@whu.edu.cn)
 
 ## 📜 License
 
