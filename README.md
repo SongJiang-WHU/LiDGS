@@ -23,8 +23,7 @@ Our key contributions include:
 - **Depth Regularization**: Correction of depth estimation for each Gaussian to ensure consistency across different viewpoints
 
 ## 🔥 News
-- **2024.12**: LiDGS paper accepted by **International Journal of Applied Earth Observation and Geoinformation**
-- **2024.11**: Code repository created and initial implementation released
+- **2025.08**: LiDGS paper accepted by **International Journal of Applied Earth Observation and Geoinformation**
 
 ## 🚀 Method Overview
 
